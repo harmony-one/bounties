@@ -10,7 +10,7 @@ Anyone can start a bounty in this repo to pay token rewards to those who accompl
 
 Each bounty should have a clear definition of the goal, requirement, acceptance criteria, and amount of token rewards.
 
-All the bounties will be listed in the `Issues` tab.
+All the bounties will be listed in the [Issue](https://github.com/harmony-one/bounties/issues) tab.
 
 ## How to participate?
 
