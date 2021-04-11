@@ -1,6 +1,6 @@
 # Bounties
 
-Bounty program is to help the community take part in the development of the Harmony ecosystem.
+Our bounty program https://harmony.one/bounties is to help the community take part in the development of the Harmony ecosystem.
 It covers from core feature to validator tooling, from dApp development to DeFi integration.
 Both technical or non-technical bounties can be added.
 
