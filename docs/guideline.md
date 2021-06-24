@@ -5,7 +5,7 @@
 ### 1.1 Purpose of Bounties
 
 * We can use external developers with coding experience and skill sets.
-* Give out fortune to make larger impact in developer (Gitcoin) community.
+* Give out rewards to make larger impact in developer (Gitcoin, etc.) community.
 * To show the fact that we are technical, product focused, and decentralized.
 
 ### 1.2 Catagories of Bounties
@@ -64,9 +64,9 @@ This catagory is about bounties that helps improve or adding new feature to the 
 
 First, what is the characteristics of bounties?
 
-1. The candidates are all developers. And most of them work along.
-2. The candidate may not have prior knowledge to Harmony blockchain as well as the context.
-3. The candidate does not expect to run in long-term. They walk in and go.
+1. The candidates are all developers. And most of them can work alone to complete a bounty.
+2. The candidate may not have prior knowledge to Harmony blockchain.
+3. The candidate has the flexibility to contribute to a single project or work on multiple projects.
 
 This will give several insights to what a good bounty should be:
 
@@ -92,11 +92,11 @@ This will give several insights to what a good bounty should be:
 
 6. About the size of the bounty.
 
-   The size of the bounty is not a "criteria" of a good bounty. A bounty can be large or small. But practically, the most welcomed bounty shall be around 0~2 man month.
+   The size of the bounty is not a "criteria" of a good bounty. A bounty can be large or small. But practically, the most welcomed bounty shall be around 1-6 human weeks.
 
 ### 2.2 How to write a good bounty?
 
-There are three required fields:
+There are four required fields:
 
 1. Description
 2. Context (Optional)
