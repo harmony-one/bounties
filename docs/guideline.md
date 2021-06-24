@@ -1,4 +1,4 @@
-# Guidelines for developers on 100 bounties
+# Guidelines for developers on bounties
 
 # 1 Content of bounties
 
