@@ -10,7 +10,7 @@
 
 ### 1.2 Catagories of Bounties
 
-Based on the existing bounties at [our bounty repository](harmony.one/bounties) as 5/23/2021, the bounties can be majorly catagoried to the following types:
+Based on the existing bounties at [our bounty repository](harmony.one/bounties) as 5/23/2021, the bounties can be majorly categorized to the following types:
 
 #### 1.2.1 Internal bounties
 
